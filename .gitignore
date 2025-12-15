@@ -1,0 +1,10 @@
+# Ignore compiled executables
+*.exe
+*.out
+*.o
+
+# Ignore other compiled files
+*.obj
+*.dll
+*.so
+*.dylib
